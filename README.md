@@ -29,7 +29,6 @@ In the current version you can:
 - Check your **daily horoscope**, that includes focus of the day, lucky numbers and compatibility.
 - Check **compatibility** with other signs.
 - **Learn more** about astrology and the zodiac.
-- Ask **questions** to our own non AI Astrologers.
 
 As extra features:
 - Change to **other signs** with ease (And check their daily horoscope :p).
