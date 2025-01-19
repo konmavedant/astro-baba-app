@@ -38,3 +38,6 @@ As extra features:
 _(Deprecated, now all the data is local)_
 _You Can Clone the repository & test the application Using Expo GO_
 
+## 📃Documentation Link
+- 🔗https://docs.google.com/document/d/1pwa_5wSEBvT9FDvOvXdrgINbDh-fYZmkzVNFlwgFlDI/edit?usp=sharing
+
