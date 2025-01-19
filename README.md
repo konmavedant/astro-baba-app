@@ -36,4 +36,5 @@ As extra features:
 
 ## 🤖 Behind the scenes
 _(Deprecated, now all the data is local)_
+_You Can Clone the repository & test the application Using Expo GO_
 
